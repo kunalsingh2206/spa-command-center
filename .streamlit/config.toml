@@ -1,0 +1,10 @@
+[server]
+headless = true
+enableCORS = true
+enableXsrfProtection = true
+
+[theme]
+base="dark"
+
+[runner]
+magicEnabled = false
